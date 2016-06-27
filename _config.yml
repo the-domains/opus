@@ -1,7 +1,7 @@
 name: Opus
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
+layout_spectrum: 0.26478556054644287
+typography_spectrum: 0.9855499919503927
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#242923'
-    - '#778274'
-    - '#000000'
-    - '#ffffff'
-    - '#a6b1a3'
-  brandStrength: 0.5
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5380173507146537
   lightness: 0.5850206380710006
   saturation: 0.8190742684528232
   rhythmicContrast: 0.8358100398909301

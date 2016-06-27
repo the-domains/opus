@@ -1,0 +1,28 @@
+name: Opus
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5380173507146537
+  lightness: 0.5850206380710006
+  saturation: 0.8190742684528232
+  rhythmicContrast: 0.8358100398909301
+purpose: []
